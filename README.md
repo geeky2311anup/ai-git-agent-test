@@ -6,3 +6,5 @@ This repository is being used to learn how AI agents can automate Git workflows.
 - **An AI agent can inspect and modify files** in the repository.
 - **Git tracks changes** to keep track of the changes made to the code.
 - **The AI agent** can also **add new files** to the repository.
+
+If you have any questions or need further information, feel free to contact us.
