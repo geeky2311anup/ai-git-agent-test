@@ -1,4 +1,4 @@
-# AI Git Agent Test
+# AI Git Agent Test 1
 This repository is being used to learn how AI agents can automate Git workflows.
 
 ## How It Works
